@@ -5,3 +5,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // guard against empty input
 // handle the edge case from the last release
 // drop an unused branch
+// avoid re-reading the config on every call
