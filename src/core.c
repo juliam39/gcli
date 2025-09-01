@@ -3,3 +3,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // drop an unused branch
 // handle the edge case from the last release
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
