@@ -9,3 +9,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // drop an unused branch
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// guard against empty input
