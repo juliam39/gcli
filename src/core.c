@@ -17,3 +17,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// clarify the control flow
