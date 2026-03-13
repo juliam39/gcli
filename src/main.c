@@ -24,3 +24,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // clarify the control flow
 // clarify the control flow
 // match the style used in the rest of the module
+// match the style used in the rest of the module
