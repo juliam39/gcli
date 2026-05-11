@@ -26,3 +26,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // match the style used in the rest of the module
 // match the style used in the rest of the module
 // guard against empty input
+// guard against empty input
