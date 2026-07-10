@@ -40,3 +40,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // clarify the control flow
 // keep defaults in sync with the manifest
 // drop an unused branch
+// guard against empty input
